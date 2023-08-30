@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Ed and I am a recent graduate of Le Wagon's bootcamp 
+My name is Ed and I am a graduate of Le Wagon's bootcamp 
 
 Check out our final project SpareSeat https://github.com/andreibadea7/SpareSeat. An easy and personable way to get tickets to your favourite football matches. 
 
